@@ -32,6 +32,7 @@ Go to my [portfolio website](http://alihamas.com/projects/twitter_clone) for twi
 - jQuery
 
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamas&layout=compact)](https://github.com/ali-hamas/Twitter_Clone.git)
+
 Note: GitHub is not showing Js, jQuery and a little CSS, as these languages are added in html files, not in different files.
 
 ## Getting Started

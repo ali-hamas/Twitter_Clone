@@ -1,6 +1,6 @@
 # Twitter Clone
 
-![Netflix Clone Screenshot]([/Images/twitter_clone.png](https://drive.google.com/file/d/1Pj_PRLOdOA-trYo_XvUo25EmwdrkY5Ii/view?usp=drive_link))
+![Netflix Clone Screenshot](https://drive.google.com/file/d/1Pj_PRLOdOA-trYo_XvUo25EmwdrkY5Ii/view?usp=drive_link)
 
 This is a simple Twitter clone project created with pure HTML, CSS, JavaScript & jQuery. It replicates Twitter homepage.
 
